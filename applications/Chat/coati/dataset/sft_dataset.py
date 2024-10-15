@@ -38,7 +38,7 @@ PROMPT_DICT = {
         "Below is an instruction that describes a task. "
         "Write a response that appropriately completes the request.\n\n"
         "### Instruction:\n{instruction}\n\n### Response:"
-    ),
+    )
 }
 
 
